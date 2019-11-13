@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Date: Sat, 02 Nov 2019 02:41:21 GMT
+Server: VWebServer/6.0.0.
+Content-Type: text/javascript;charset=utf-8
+Content-Length: 125
+Content-Language: zh-CN
+
+throw 'allowScriptTagRemoting is false.';
+//#DWR-INSERT
+//#DWR-REPLY
+dwr.engine._remoteHandleCallback('0','0',"0000301187");
+Gecko
+Host: www.hit.edu.cn
+Content-Length: 279
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: _ga=GA1.3.4904737.1572018731; JSESSIONID=CE8525468A9064BD6B1A2BC958FA5FFD
+
+callCount=1
+page=/
+httpSessionId=
+scriptSessionId=16E4954025A7DEBB8B442652E5C64D1D83
+c0-scriptName=PageCounterDWR
+c0-methodName=getVisittime
+c0-id=0
+c0-param0=string:1136869509
+c0-param1=string:1002
+c0-param2=string:TOTAL_COUNTER
+c0-param3=string:0
+c0-param4=string:10
+batchId=0
